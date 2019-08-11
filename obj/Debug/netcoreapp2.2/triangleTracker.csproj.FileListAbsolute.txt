@@ -1,0 +1,11 @@
+C:\Users\Pope\desktop\c#\triangleTracker\obj\Debug\netcoreapp2.2\triangleTracker.csprojAssemblyReference.cache
+C:\Users\Pope\desktop\c#\triangleTracker\obj\Debug\netcoreapp2.2\triangleTracker.csproj.CoreCompileInputs.cache
+C:\Users\Pope\desktop\c#\triangleTracker\obj\Debug\netcoreapp2.2\triangleTracker.AssemblyInfoInputs.cache
+C:\Users\Pope\desktop\c#\triangleTracker\obj\Debug\netcoreapp2.2\triangleTracker.AssemblyInfo.cs
+C:\Users\Pope\desktop\c#\triangleTracker\bin\Debug\netcoreapp2.2\triangleTracker.deps.json
+C:\Users\Pope\desktop\c#\triangleTracker\bin\Debug\netcoreapp2.2\triangleTracker.runtimeconfig.json
+C:\Users\Pope\desktop\c#\triangleTracker\bin\Debug\netcoreapp2.2\triangleTracker.runtimeconfig.dev.json
+C:\Users\Pope\desktop\c#\triangleTracker\bin\Debug\netcoreapp2.2\triangleTracker.dll
+C:\Users\Pope\desktop\c#\triangleTracker\bin\Debug\netcoreapp2.2\triangleTracker.pdb
+C:\Users\Pope\desktop\c#\triangleTracker\obj\Debug\netcoreapp2.2\triangleTracker.dll
+C:\Users\Pope\desktop\c#\triangleTracker\obj\Debug\netcoreapp2.2\triangleTracker.pdb
